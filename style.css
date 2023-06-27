@@ -54,16 +54,15 @@ img {
 }
 
 .app-body {
-  height: 70vh;
+  height: 83vh;
 }
 
-/* .kramerAssistantBtn {
-  background-color: rgba(0, 21, 53);
-  width: 240px;
-  height: 60px;
-  border-radius: 10px;
+.kramerAssistantBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
-} */
+}
 
 footer {
   display: flex;
