@@ -81,11 +81,11 @@ footer {
   background-color: rgba(0, 21, 53);
   border-radius: 4px;
   display: flex;
-align-items: center;
+  align-items: center;
 }
 
 .screencast-light-pic {
-    height: 50px;
+  height: 50px;
 }
 
 .password,
@@ -115,7 +115,7 @@ align-items: center;
 }
 
 .logo {
-  height: 70px;
+  height: 50px;
   padding-left: 0;
   padding-right: 0;
 }
@@ -125,7 +125,7 @@ align-items: center;
   flex-direction: column;
   align-items: center;
   margin-top: 50px;
-padding: 32px 16px 0 16px;
+  padding: 32px 16px 0 16px;
 }
 
 .panels {
