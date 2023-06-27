@@ -130,6 +130,7 @@ footer {
 
 .panels {
   display: flex;
+  height: 150px;
   flex-wrap: wrap;
   margin-top: 30px;
 }
