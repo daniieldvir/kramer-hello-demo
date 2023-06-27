@@ -57,18 +57,13 @@ img {
   height: 70vh;
 }
 
-.room {
-  display: flex;
+/* .kramerAssistantBtn {
   background-color: rgba(0, 21, 53);
   width: 240px;
   height: 60px;
-  margin: auto;
-  margin-top: 115px;
-  align-items: center;
   border-radius: 10px;
-  justify-content: center;
   cursor: pointer;
-}
+} */
 
 footer {
   display: flex;
